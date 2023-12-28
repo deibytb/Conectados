@@ -1,0 +1,20 @@
+#footer {
+    background-color: #0A1445; 
+ }
+ .text-white {
+     color: white;
+ }
+ .tamano-subtitulo { 
+     font-size: 28px;
+ }
+ 
+ #imagefooter {
+     width: 321px;
+     height: 104px;
+     margin-top: 70px;
+    
+ }
+ 
+ #espacio-footer-texto {
+    margin: 50px;
+ }
