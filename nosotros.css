@@ -7,3 +7,33 @@
 .tamano-subtitulo{
     font-size: 28px;
 }
+#mision-vision {
+color: #0A1445;
+}
+.text-align {
+    text-align: center;
+}
+.p.thicker { 
+    font-weight: 700;
+}
+#valores { 
+    background-color: #0A1445;
+}
+#tamano-icono-valores-conexion { 
+    width: 40px;
+    height: auto;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+#tamano-icono-valores-comodidad {
+    width: 70px;
+    height: auto;
+    margin-top: 20px;
+    margin-left: 20px;
+}
+#tamano-icono-valores-confianza {
+    width: 70px;
+    height: auto;
+    margin-top: 20px;
+    margin-left: 20px;
+}
