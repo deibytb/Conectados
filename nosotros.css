@@ -1,6 +1,14 @@
 #nuestra-historia {
     background-color: #0A1445;
 }
+#text-historia {
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
+#img-historia {
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
 .text-white {
     color: white;
 }
@@ -13,8 +21,8 @@ color: #0A1445;
 .text-align {
     text-align: center;
 }
-.p.thicker { 
-    font-weight: 700;
+.thick { 
+    font-weight: bold;
 }
 #valores { 
     background-color: #0A1445;
