@@ -1,3 +1,16 @@
+#nosotros-sueños-hogar{
+    height: 100%;
+    width: 100%;
+    background-image: url(../images/sueños-hogar-nosotros.png);
+    background-position: center center;
+}
+#no-background-nosotros{
+    background-color: transparent !important;
+    border-color: transparent !important;
+}
+.text-center{
+    color: white;
+}
 #nuestra-historia {
     background-color: #0A1445;
 }
@@ -44,4 +57,35 @@ color: #0A1445;
     height: auto;
     margin-top: 20px;
     margin-left: 20px;
+}
+#carouselExample {
+    height: 370px;
+    background-color: #0A1445;
+    padding-top: 20px;
+    margin-top: 25px;
+}
+#carouselExample img {
+    height: 43;
+    width: auto !important;
+}
+.carousel-item img {
+    margin: auto;
+}
+#tex-opiniones {
+    margin-bottom: 20px;
+}
+#comentarios-card-tamano{
+    width: 350px;
+    height: 161px;
+}
+#fondocomentarios {
+    background-color: #0A1445
+}
+.foto-perfil-comentarios {
+    width: auto;
+    height: 75px
+}
+.carousel-inner {
+    width: 80% !important; 
+    margin: 0 auto;
 }
